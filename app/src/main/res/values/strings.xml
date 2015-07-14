@@ -47,6 +47,7 @@
     <string name="current_score_description">Current score</string>
     <string name="away_crest_description">Away team crest image</string>
     <string name="away_team_name">Away team name</string>
+    <string name="dash_char" translatable="false">-</string>
 
 
 </resources>
